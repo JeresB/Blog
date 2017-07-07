@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/categories/categorie-2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -28,6 +33,14 @@
     <loc>/categories/example/</loc>
     <lastmod>2014-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2017-07-07-interview-dahmed/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/2017-07-07-interview-de-takako/</loc>
   </url>
   
   <url>
