@@ -5,64 +5,9 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Cuistot du coin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Jul 2017 15:38:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Categorie1</title>
-      <link>/categories/categorie1/</link>
-      <pubDate>Thu, 27 Jul 2017 15:38:00 +0000</pubDate>
-      
-      <guid>/categories/categorie1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categories1</title>
-      <link>/categories/categories1/</link>
-      <pubDate>Sun, 27 Aug 2017 17:37:55 +0200</pubDate>
-      
-      <guid>/categories/categories1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categories2</title>
-      <link>/categories/categories2/</link>
-      <pubDate>Tue, 27 Jun 2017 15:37:43 +0000</pubDate>
-      
-      <guid>/categories/categories2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categories3</title>
-      <link>/categories/categories3/</link>
-      <pubDate>Tue, 27 Jun 2017 16:59:36 +0200</pubDate>
-      
-      <guid>/categories/categories3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categories4</title>
-      <link>/categories/categories4/</link>
-      <pubDate>Tue, 27 Jun 2017 17:37:35 +0200</pubDate>
-      
-      <guid>/categories/categories4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categories5</title>
-      <link>/categories/categories5/</link>
-      <pubDate>Tue, 27 Jun 2017 17:37:49 +0200</pubDate>
-      
-      <guid>/categories/categories5/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Configuration</title>
@@ -79,24 +24,6 @@
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>/categories/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>/categories/hello/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>/categories/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/search/</guid>
       <description></description>
     </item>
     

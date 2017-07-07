@@ -3,104 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/chocolats/</loc>
-    <lastmod>2017-08-27T17:37:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/bonbon/</loc>
-    <lastmod>2017-07-27T15:38:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/fruits/</loc>
-    <lastmod>2017-06-27T17:37:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/legumes/</loc>
-    <lastmod>2017-06-27T15:37:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/frites/</loc>
-    <lastmod>2017-06-27T17:37:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/pain/</loc>
-    <lastmod>2017-06-27T16:59:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/sauce/</loc>
-    <lastmod>2017-06-27T16:59:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/indien/</loc>
-    <lastmod>2017-06-27T16:59:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/index.json</loc>
-    <lastmod>2017-03-28T00:02:24+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/crepe/</loc>
-    <lastmod>2017-01-27T16:59:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/another-post/</loc>
     <lastmod>2014-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hello-hugo/</loc>
-    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/categorie1/</loc>
-    <lastmod>2017-07-27T15:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2017-07-27T15:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/categories1/</loc>
-    <lastmod>2017-08-27T17:37:55+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/categories2/</loc>
-    <lastmod>2017-06-27T15:37:43+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/categories3/</loc>
-    <lastmod>2017-06-27T16:59:36+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/categories4/</loc>
-    <lastmod>2017-06-27T17:37:35+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/categories5/</loc>
-    <lastmod>2017-06-27T17:37:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,7 +20,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-08-27T17:37:55+02:00</lastmod>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,33 +31,14 @@
   </url>
   
   <url>
-    <loc>/categories/hello/</loc>
-    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
-    <lastmod>2017-08-27T17:37:55+02:00</lastmod>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/search/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/search/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/test/</loc>
   </url>
   
 </urlset>
