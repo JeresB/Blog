@@ -1,7 +1,7 @@
 ---
 date: '2014-09-02'
 title: Another Hugo Post
-description: 'Nothing special, but one post is boring.1'
+description: 'Nothing special, but one post is boring.'
 categories:
   - example
   - configuration
@@ -52,4 +52,5 @@ How would this entry's front matter look in `json`? That's easy enough to demons
     ],
 }
 ```
+
 
