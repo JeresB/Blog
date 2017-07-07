@@ -5,7 +5,7 @@
     <link>/categories/categories2/</link>
     <description>Recent content in Categories2 on Cuistot du coin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Jun 2017 17:37:43 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 15:37:43 +0000</lastBuildDate>
     
 	<atom:link href="/categories/categories2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,14 +13,11 @@
     <item>
       <title>Legumes</title>
       <link>/post/legumes/</link>
-      <pubDate>Tue, 27 Jun 2017 17:37:43 +0200</pubDate>
+      <pubDate>Tue, 27 Jun 2017 15:37:43 +0000</pubDate>
       
       <guid>/post/legumes/</guid>
-      <description>&lt;h2 id=&#34;lorem-ipsum-dolor-sit-amet&#34;&gt;Lorem ipsum dolor sit amet.&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse felis odio, hendrerit eget dui quis, venenatis condimentum mauris. Curabitur tincidunt nisl vitae dolor porta maximus. Ut id dui convallis quam consequat hendrerit. Curabitur luctus elit quis tristique elementum. Ut euismod in dolor sit amet sodales. Curabitur pharetra mi purus, sed.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse felis odio, hendrerit eget dui quis, venenatis condimentum mauris. Curabitur tincidunt nisl vitae dolor porta maximus. Ut id dui convallis quam consequat hendrerit. Curabitur luctus elit quis tristique elementum. Ut euismod in dolor sit amet sodales. Curabitur pharetra mi purus, sed.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam viverra sapien vitae ipsum iaculis sodales.</description>
     </item>
     
   </channel>

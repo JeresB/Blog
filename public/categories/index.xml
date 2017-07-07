@@ -5,7 +5,7 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Cuistot du coin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Jul 2017 17:38:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 15:38:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Categorie1</title>
       <link>/categories/categorie1/</link>
-      <pubDate>Thu, 27 Jul 2017 17:38:00 +0200</pubDate>
+      <pubDate>Thu, 27 Jul 2017 15:38:00 +0000</pubDate>
       
       <guid>/categories/categorie1/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Categories2</title>
       <link>/categories/categories2/</link>
-      <pubDate>Tue, 27 Jun 2017 17:37:43 +0200</pubDate>
+      <pubDate>Tue, 27 Jun 2017 15:37:43 +0000</pubDate>
       
       <guid>/categories/categories2/</guid>
       <description></description>

@@ -5,4 +5,5 @@ permalink: /search/
 categories:
  - "Search"
 noToc: true
+draft: true
 ---
